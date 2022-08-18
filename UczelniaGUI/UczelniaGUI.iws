@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d56c4fe0-fffa-4ce3-a066-1f1204951e67" name="Changes" comment="" />
+    <list default="true" id="d56c4fe0-fffa-4ce3-a066-1f1204951e67" name="Changes" comment="Project fully updated and ready to commit">
+      <change beforePath="$PROJECT_DIR$/UczelniaGUI.iws" beforeDir="false" afterPath="$PROJECT_DIR$/UczelniaGUI.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UczelniaGUI/Wyszukiwanie/WyszukajKurs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UczelniaGUI/Wyszukiwanie/WyszukajKurs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UczelniaGUI/Wyszukiwanie/WyszukajPracownik.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UczelniaGUI/Wyszukiwanie/WyszukajPracownik.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UczelniaGUI/Wyszukiwanie/WyszukajStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UczelniaGUI/Wyszukiwanie/WyszukajStudent.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -54,6 +60,30 @@
       <option name="presentableId" value="Default" />
       <updated>1660840251567</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project fully updated and ready to commit">
+      <created>1660842618435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660842618435</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Project fully updated and ready to commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project fully updated and ready to commit" />
   </component>
 </project>
