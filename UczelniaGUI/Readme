@@ -1,0 +1,4 @@
+The whole project is created in polish as that was a requirement.
+Every option is dependent on selecting it from a combo box or typing in the text and clicking a button (does not work in reverse)
+There is already a filled file with a name ,,plik.txt", to access it open the project, write the name and click ,,zapisz" button.
+Posibble options include: adding new elements, removing them, searching based on the information, showing the database, sorting, saving to file and loading a previous file.
