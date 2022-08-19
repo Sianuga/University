@@ -8,7 +8,7 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CPUSchedulingAlgorithms.iml" filepath="$PROJECT_DIR$/CPUSchedulingAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DriveSchedulingAlgorithms.iml" filepath="$PROJECT_DIR$/DriveSchedulingAlgorithms.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
