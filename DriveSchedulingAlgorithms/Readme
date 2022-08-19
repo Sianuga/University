@@ -1,0 +1,7 @@
+The algortihm simulates the drive scheduling algorithms and calculates performance based on arm movement parameters. 
+Algorithms included: 
+- FCFS
+- SSTF
+- C-SCAN
+- EDF
+- FD-SCAN
