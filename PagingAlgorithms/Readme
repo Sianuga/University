@@ -1,0 +1,7 @@
+The algortihm simulates the page replacement algorithms and calculates performance based on pages faults, also can visualise in console how the logical, physical and virtual memory. 
+Algorithms included: 
+- FIFO
+- OPT
+- LRU
+- ALRU
+- RAND
