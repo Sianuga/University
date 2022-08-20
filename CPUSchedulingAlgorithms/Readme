@@ -1,0 +1,6 @@
+The algortihm simulates the cpu scheduling algorithms and calculates performance of them in terms of time.
+Algorithms included: 
+- FCFS
+- SRTF
+- SJF
+- Round Robin
