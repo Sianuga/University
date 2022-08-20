@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c2d066-9869-4b31-ae6b-ac74e4dc0e1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CircularLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FCFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Process.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProcessGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RoundRobin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SJF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SRTF.java" afterDir="false" />
+    <list default="true" id="a8c2d066-9869-4b31-ae6b-ac74e4dc0e1c" name="Changes" comment="Final update">
+      <change beforePath="$PROJECT_DIR$/CPUSchedulingAlgorithms.iws" beforeDir="false" afterPath="$PROJECT_DIR$/CPUSchedulingAlgorithms.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DriveSchedulingAlgorithms/DriveSchedulingAlgorithms.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../DriveSchedulingAlgorithms/DriveSchedulingAlgorithms.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +49,21 @@
       <option name="presentableId" value="Default" />
       <updated>1660923663311</updated>
     </task>
+    <task id="LOCAL-00001" summary="Final update">
+      <created>1660927638028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660927638028</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Final update">
+      <created>1660927688269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660927688269</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,5 +76,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final update" />
   </component>
 </project>

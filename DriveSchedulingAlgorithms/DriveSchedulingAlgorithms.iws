@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fb22a7e-463d-4e63-954f-753328407bb7" name="Changes" comment="Updated with fixed name" />
+    <list default="true" id="6fb22a7e-463d-4e63-954f-753328407bb7" name="Changes" comment="Updated with fixed name">
+      <change beforePath="$PROJECT_DIR$/../CPUSchedulingAlgorithms/CPUSchedulingAlgorithms.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../CPUSchedulingAlgorithms/CPUSchedulingAlgorithms.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
