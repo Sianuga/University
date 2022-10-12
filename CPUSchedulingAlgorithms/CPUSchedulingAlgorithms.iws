@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a8c2d066-9869-4b31-ae6b-ac74e4dc0e1c" name="Changes" comment="Final update">
       <change beforePath="$PROJECT_DIR$/CPUSchedulingAlgorithms.iws" beforeDir="false" afterPath="$PROJECT_DIR$/CPUSchedulingAlgorithms.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DriveSchedulingAlgorithms/DriveSchedulingAlgorithms.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../DriveSchedulingAlgorithms/DriveSchedulingAlgorithms.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PagingAlgorithms/PagingAlgorithms.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../PagingAlgorithms/PagingAlgorithms.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
