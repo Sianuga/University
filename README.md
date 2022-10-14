@@ -7,3 +7,4 @@ Short description of each project:
 2. Drive scheduling algorithms simulation - console programme that simulates drive scheduling algortihms and measures performace
 3. CPU scheduling algorithms simulation - console programme that simulates CPU scheduling algorithms and measures performance
 4. Page replacement algorithms simulation - console programme that simulates management of memory by paging and measures performance
+5. TOEP folder includes exercises done for university practicals, further explanations in each list folder
