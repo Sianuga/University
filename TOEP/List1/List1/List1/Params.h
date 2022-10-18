@@ -1,2 +1,3 @@
 #pragma once
-const int arraySize = 3, sizeX = 5, sizeY = 3;
+
+const int ARRAYSIZE = 3, SIZE_X = 5, SIZE_Y = 3;

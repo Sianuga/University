@@ -3,8 +3,11 @@
 class CTable
 {
 private:
+	const int DEFAULT_ARRAY_LEN = 3;
+	const std::string DEFAULT_SNAME = "default";
 	std::string sName;
 	int iTableLen;
+	int* array;
 
 public:
 	CTable();
@@ -19,11 +22,13 @@ public:
 
 	std::string getSName();
 	int getITableLen();
-
+	int* getArray();
+	
+private:
+	bool deepCopy(int* copiedArray, int size);
 };
-
-const int defaultArrayLen = 3;
-const std::string defaultSName = "default";
 
 void v_mod_tab(CTable* pcTab, int iNewSize);
 void v_mod_tab(CTable cTab, int iNewSize);
+
+
