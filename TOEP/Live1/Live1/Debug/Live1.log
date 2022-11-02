@@ -1,0 +1,5 @@
+﻿  Live1.cpp
+  CMtx.cpp
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live1\Live1\CMtx.cpp(80,9): warning C4101: "tmp": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+  Live1.vcxproj -> C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live1\Debug\Live1.exe

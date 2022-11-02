@@ -23,7 +23,7 @@ void allocTableFill34(int iSize)
 		std::cout << newTab[i] << " ";
 	}
 	std::cout << " ]" << std::endl;
-
+	
 	delete[] newTab;
 }
 bool alloc2DTable(int*** piTable, int iSizeX, int iSizeY)
