@@ -5,39 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7dd6c4d-e275-4c7a-8b5e-6acfbe5a273d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Java/List8/src/GraphComponents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/List8/src/IGraf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/List8/src/ImmutableGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Java/List8/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Debug.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lectures_Lists/Ocaml/List1.ml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures_Lists/Ocaml/List1.ml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lectures_Lists/Scala/List1/List1.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures_Lists/Scala/List1/List1.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lectures_Lists/Scala/List1/src/List1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures_Lists/Scala/List1/src/List1.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lectures_Lists/Scala/List2/List2.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures_Lists/Scala/List2/List2.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../List2/List2.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../List2/List2.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../List2/src/List2.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../List2/src/List2.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/ipch/AutoPCH/217515e69a14cda3/CTABLE.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/ipch/AutoPCH/217515e69a14cda3/CTABLE.ipch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/Debug/List2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/Debug/List2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/Debug/List2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/Debug/List2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/CTable.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/CTable.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/CTable.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/CTable.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/CTable.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/CTable.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/CL.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/CL.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/CL.write.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/List2.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/List2.lastbuildstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/link.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/vc142.idb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/vc142.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/List2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/List2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/List2.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/List2.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../UczelniaGUI/UczelniaGUI.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../UczelniaGUI/UczelniaGUI.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../UczelniaGUI/UczelniaGUI.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../UczelniaGUI/UczelniaGUI.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Debugger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List9.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/List9.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List9.iws" beforeDir="false" afterPath="$PROJECT_DIR$/List9.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/A.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Debugger.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +19,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
