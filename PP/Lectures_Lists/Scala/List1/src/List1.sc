@@ -23,7 +23,7 @@ else
 flatten1(List(List(1,2,3),List(4,5),List(6)))
 
 //Ex 2
-def count[A](elem: A, list: List[A]): Int =
+/*def count[A](elem: A, list: List[A]): Int =
 {
 //  if(list!=Nil)
 //  {
@@ -37,7 +37,7 @@ def count[A](elem: A, list: List[A]): Int =
   list match
   {
     case Nil => 0
-    case list.head==elem => 1+ count(elem,list.tail)
+    case list.head == elem => 1+ count(elem,list.tail)
     case _ => count(elem,list.tail)
   }
 
@@ -46,7 +46,7 @@ def count[A](elem: A, list: List[A]): Int =
 
 }
 
-count("a", List("a","l","a"))
+count("a", List("a","l","a"))*/
 //Ex 3
 def replicate[A](x:A,n:Int):List[A] =
 {
@@ -73,6 +73,7 @@ sqrList(List(3,4,5))
 //Ex 5
 def reverse[A](list: List[A]):List[A] =
   {
+    /*
     if(list!=Nil)
       {
         reverse(list.tail):::List(list.head)
@@ -80,7 +81,13 @@ def reverse[A](list: List[A]):List[A] =
     else
       {
         Nil
-      }
+      }*/
+
+    list match
+      {
+      case Nil => Nil
+      case _ => reverse(list.tail):::List(list.head)
+     }
   }
 
 reverse(List(1,2,3))

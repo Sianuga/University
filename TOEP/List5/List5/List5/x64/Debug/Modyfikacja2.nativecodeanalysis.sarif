@@ -1,0 +1,91 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26439",
+          "message": {
+            "text": "Ten rodzaj funkcji nie powinna zgłaszać (throw). Zadeklaruj ją jako 'noexcept' (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/dziki/OneDrive/Pulpit/CTab.h"
+                },
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 17,
+                  "endLine": 47,
+                  "endColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CTab<int>::=",
+                  "decoratedName": "??4?$CTab@H@@QEAAX$$QEAV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31937.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/dziki/OneDrive/Pulpit/CTab.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "544bc6738d751f78afa18ffc0d7141d77e792ab9f2b252e1102e722cca41633e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dziki/onedrive/pulpit/modyfikacja2.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "33b20b1811fa6bf9496173966fc310f028e4a4ce6232c6baf8c6868793948969"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dziki/onedrive/pulpit/cmysmartpointer.h"
+          },
+          "hashes": {
+            "sha-256": "a2e4cf3bed63e3f334347ad4454736ce9b59bbb93fac1cae7db988a1d9659489"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dziki/onedrive/pulpit/ctable.h"
+          },
+          "hashes": {
+            "sha-256": "dc1cdb0fa8111f83705f558f2c497d86061049099ca400c662344037653b7438"
+          }
+        }
+      ]
+    }
+  ]
+}

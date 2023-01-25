@@ -43,8 +43,8 @@ int main()
 
 	cTable1.vPrint();
 
-	cTable0 + cTable1;
-	cTable0.vPrint();
+	CTable cTable2 = cTable0 + cTable1 +cTable0;
+	cTable2.vPrint();
 
 	return 0;
 }

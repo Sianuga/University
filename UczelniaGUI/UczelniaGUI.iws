@@ -5,18 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d56c4fe0-fffa-4ce3-a066-1f1204951e67" name="Changes" comment="Project fully updated and ready to commit">
+      <change beforePath="$PROJECT_DIR$/../PP/Lectures_Lists/Ocaml/List1.ml" beforeDir="false" afterPath="$PROJECT_DIR$/../PP/Lectures_Lists/Ocaml/List1.ml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP/Lectures_Lists/Scala/List1/List1.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../PP/Lectures_Lists/Scala/List1/List1.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP/Lectures_Lists/Scala/List1/src/List1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../PP/Lectures_Lists/Scala/List1/src/List1.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP/Lectures_Lists/Scala/List2/List2.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../PP/Lectures_Lists/Scala/List2/List2.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP/Practicals_Lists/Scala/List2/List2.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../PP/Practicals_Lists/Scala/List2/List2.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PP/Practicals_Lists/Scala/List2/src/List2.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../PP/Practicals_Lists/Scala/List2/src/List2.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOEP/List2/List2/.vs/List2/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../TOEP/List2/List2/.vs/List2/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOEP/List2/List2/.vs/List2/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../TOEP/List2/List2/.vs/List2/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOEP/List2/List2/.vs/List2/v16/ipch/AutoPCH/217515e69a14cda3/CTABLE.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../TOEP/List2/List2/.vs/List2/v16/ipch/AutoPCH/217515e69a14cda3/CTABLE.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOEP/List2/List2/Debug/List2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../TOEP/List2/List2/Debug/List2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOEP/List2/List2/Debug/List2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TOEP/List2/List2/Debug/List2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOEP/List2/List2/List2/Debug/CTable.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../TOEP/List2/List2/List2/Debug/CTable.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOEP/List2/List2/List2/Debug/List2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../TOEP/List2/List2/List2/Debug/List2.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOEP/List2/List2/List2/Debug/List2.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../TOEP/List2/List2/List2/Debug/List2.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOEP/List2/List2/List2/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../TOEP/List2/List2/List2/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOEP/List2/List2/List2/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TOEP/List2/List2/List2/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UczelniaGUI.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/UczelniaGUI.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UczelniaGUI.iws" beforeDir="false" afterPath="$PROJECT_DIR$/UczelniaGUI.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UczelniaGUI/Wyszukiwanie/WyszukajKurs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UczelniaGUI/Wyszukiwanie/WyszukajKurs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UczelniaGUI/Wyszukiwanie/WyszukajPracownik.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UczelniaGUI/Wyszukiwanie/WyszukajPracownik.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/UczelniaGUI/Wyszukiwanie/WyszukajStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/UczelniaGUI/Wyszukiwanie/WyszukajStudent.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2DXKzO1pyTV3PuF6yvLm5zOaczd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +48,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="171" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -80,6 +102,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

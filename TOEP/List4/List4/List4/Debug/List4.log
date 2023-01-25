@@ -1,0 +1,23 @@
+﻿  CNodeDynamic.cpp
+  CTreeDynamic.cpp
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CNodeDynamic.cpp(14,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CNodeDynamic.cpp(13): message : podczas kompilowania funkcji składowej „CNodeDynamic<int>::~CNodeDynamic(void)” klasy klasa szablon
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CNodeDynamic.h(26): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CNodeDynamic<int>::~CNodeDynamic(void)” funkcji szablon
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CTreeDynamic.cpp(8): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CNodeDynamic<int>” klasy klasa szablon
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CNodeDynamic.cpp(43,40): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CNodeDynamic.cpp(42): message : podczas kompilowania funkcji składowej „CNodeDynamic<int> *CNodeDynamic<int>::pcGetChild(int)” klasy klasa szablon
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CTreeDynamic.cpp(11): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CNodeDynamic<int> *CNodeDynamic<int>::pcGetChild(int)” funkcji szablon
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CNodeDynamic.cpp(60,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CNodeDynamic.cpp(57): message : podczas kompilowania funkcji składowej „void CNodeDynamic<int>::vPrintAllBelow(void)” klasy klasa szablon
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CTreeDynamic.cpp(21): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void CNodeDynamic<int>::vPrintAllBelow(void)” funkcji szablon
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CNodeDynamic.cpp(87,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CNodeDynamic.cpp(86): message : podczas kompilowania funkcji składowej „bool CNodeDynamic<double>::removeChild(CNodeDynamic<double> *)” klasy klasa szablon
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CTreeDynamic.cpp(100): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „bool CNodeDynamic<double>::removeChild(CNodeDynamic<double> *)” funkcji szablon
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CNodeDynamic.cpp(6): message : podczas kompilowania funkcji składowej „CNodeDynamic<double>::CNodeDynamic(void)” klasy klasa szablon
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\List4\CTreeDynamic.cpp(40): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CNodeDynamic<double>::CNodeDynamic(void)” funkcji szablon
+  Main.cpp
+  Generowanie kodu...
+  LINK : nie znaleziono elementu C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\Debug\List4.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+Main.obj : error LNK2019: nierozpoznany symbol zewnętrzny "public: __thiscall CTreeDynamic<int>::CTreeDynamic<int>(void)" (??0?$CTreeDynamic@H@@QAE@XZ) przywołany w funkcji _main
+Main.obj : error LNK2019: nierozpoznany symbol zewnętrzny "public: __thiscall CTreeDynamic<int>::~CTreeDynamic<int>(void)" (??1?$CTreeDynamic@H@@QAE@XZ) przywołany w funkcji _main
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List4\List4\Debug\List4.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 2

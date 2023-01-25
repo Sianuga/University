@@ -1,0 +1,3 @@
+﻿  ComplexNumber.cpp
+Debug\ComplexNumber.obj : warning LNK4042: obiekt określono więcej niż raz; dodatkowe wystąpienia zostały zignorowane
+  Live2.vcxproj -> C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live2\Live2\Debug\Live2.exe

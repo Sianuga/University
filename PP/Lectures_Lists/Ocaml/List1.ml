@@ -41,8 +41,10 @@ let rec replicate x n =
 
 let rec reverse list =
   match list with
-  [] -> []
-  h::t -> reverse t @ h ;;
+  | [] -> []
+  | h::t -> reverse t @ [h] ;;
+
+  reverse [1;2;3];;
 (*Ex 6*)
 (*Ex 7*)
 
@@ -62,4 +64,5 @@ let match_2 l =
 match_1 [-2; -1; 0; 1; 2];;
 match_2 [(1, 2); (0, 1)];;
 
-let [_;_;x;_;_] =  [-2; -1; 0; 1; 2]
+let [_;_;x;_;_] =  [-2; -1; 0; 1; 2];;
+let [(_,_);(x,_)] = [(1, 2); (0, 1)];;

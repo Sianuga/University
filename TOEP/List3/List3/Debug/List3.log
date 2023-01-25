@@ -1,0 +1,7 @@
+﻿  CTreeDynamic.cpp
+  Main.cpp
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List3\List3\Main.cpp(1,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List3\List3\Main.cpp(2,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Generowanie kodu...
+  LINK : nie znaleziono elementu C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List3\Debug\List3.exe ani nie został on skompilowany podczas ostatniego konsolidowania przyrostowego; zostanie wykonana pełna konsolidacja
+  List3.vcxproj -> C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List3\Debug\List3.exe

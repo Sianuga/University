@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\dziki\OneDrive\Pulpit\</FILEPATH>
+      <FILENAME>CTab.h</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Ten rodzaj funkcji nie powinna zgłaszać (throw). Zadeklaruj ją jako 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>CTab&lt;int&gt;::=</FUNCTION>
+    <DECORATED>??4?$CTab@H@@QEAAX$$QEAV0@@Z</DECORATED>
+    <FUNCLINE>47</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

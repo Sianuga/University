@@ -1,0 +1,117 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26439",
+          "message": {
+            "text": "Ten rodzaj funkcji nie powinna zgłaszać (throw). Zadeklaruj ją jako 'noexcept' (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/dziki/OneDrive/Pulpit/CTable.cpp"
+                },
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 9,
+                  "endLine": 34,
+                  "endColumn": 9
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CTable::{ctor}",
+                  "decoratedName": "??0CTable@@QEAA@$$QEAV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26479",
+          "message": {
+            "text": "Nie używaj funkcji std::move w celu zwrócenia zmiennej lokalnej. (f.48)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/dziki/OneDrive/Pulpit/CTable.cpp"
+                },
+                "region": {
+                  "startLine": 101,
+                  "startColumn": 12,
+                  "endLine": 101,
+                  "endColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CTable::+",
+                  "decoratedName": "??HCTable@@QEAA?AV0@AEAV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31937.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/dziki/OneDrive/Pulpit/CTable.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "49db20d47ee1cdbaca6e919ed82133bc90ce34f283720baebf69265908f50ce3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dziki/onedrive/pulpit/ctab.h"
+          },
+          "hashes": {
+            "sha-256": "544bc6738d751f78afa18ffc0d7141d77e792ab9f2b252e1102e722cca41633e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dziki/onedrive/pulpit/cmysmartpointer.h"
+          },
+          "hashes": {
+            "sha-256": "a2e4cf3bed63e3f334347ad4454736ce9b59bbb93fac1cae7db988a1d9659489"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dziki/onedrive/pulpit/ctable.h"
+          },
+          "hashes": {
+            "sha-256": "dc1cdb0fa8111f83705f558f2c497d86061049099ca400c662344037653b7438"
+          }
+        }
+      ]
+    }
+  ]
+}

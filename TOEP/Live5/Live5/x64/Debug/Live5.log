@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live5\Live5\NSPtr.h(13,11): error C2065: "Node": niezadeklarowany identyfikator
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live5\Live5\NSPtr.h(53,2): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „NSPtr<T>” klasy klasa szablon
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live5\Live5\NSPtr.h(13,5): error C2923: „NSPtr”: „Node” nie jest prawidłowym argumentem typu szablon dla parametru „T”
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live5\Live5\NSPtr.h(13,11): message : zobacz deklarację „Node”
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live5\Live5\Main.cpp(9,5): error C2102: "&" wymaga wartości l
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live5\Live5\Main.cpp(9,19): error C2064: funkcja przyjmująca 0 argumentów nie jest wynikiem przetworzenia termu
+  Node.cpp
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live5\Live5\NSPtr.h(13,11): error C2065: "Node": niezadeklarowany identyfikator
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live5\Live5\NSPtr.h(53,2): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „NSPtr<T>” klasy klasa szablon
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live5\Live5\NSPtr.h(13,5): error C2923: „NSPtr”: „Node” nie jest prawidłowym argumentem typu szablon dla parametru „T”
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live5\Live5\NSPtr.h(13,11): message : zobacz deklarację „Node”
+  Generowanie kodu...

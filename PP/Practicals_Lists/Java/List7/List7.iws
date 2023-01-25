@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1839941d-5bbe-4782-866b-f734b9c28353" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Lectures_Lists/Ocaml/List1.ml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures_Lists/Ocaml/List1.ml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures_Lists/Scala/List1/List1.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures_Lists/Scala/List1/List1.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures_Lists/Scala/List1/src/List1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures_Lists/Scala/List1/src/List1.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lectures_Lists/Scala/List2/List2.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Lectures_Lists/Scala/List2/List2.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/List2/List2.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/List2/List2.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scala/List2/src/List2.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scala/List2/src/List2.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/ipch/AutoPCH/217515e69a14cda3/CTABLE.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/ipch/AutoPCH/217515e69a14cda3/CTABLE.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/Debug/List2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/Debug/List2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/Debug/List2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/Debug/List2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/CTable.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/CTable.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/CTable.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/CTable.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/CTable.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/CTable.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/List2.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/List2.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/vc142.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/List2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/List2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/List2.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/List2.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../UczelniaGUI/UczelniaGUI.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../UczelniaGUI/UczelniaGUI.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../UczelniaGUI/UczelniaGUI.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../UczelniaGUI/UczelniaGUI.iws" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2IpmRfDOiFjqOsS9KlcMLgmzXrf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="List7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List7" />
+      <module name="List7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.List7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1839941d-5bbe-4782-866b-f734b9c28353" name="Changes" comment="" />
+      <created>1670886893540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670886893540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="test4" />
+      </configuration>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/List7.java" line="80">
+        <watch expression="listTest1" language="JAVA" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+</project>

@@ -12,7 +12,8 @@ private:
 public:
 	CTable();
 	CTable(std::string sName, int iTableLen);
-	CTable(CTable& pcOther);
+	CTable(std::string sName, int iTableLen, int* array);
+	CTable(const CTable& pcOther);
 
 	~CTable();
 
@@ -25,10 +26,11 @@ public:
 	int* getArray();
 	void vSetValueAt(int iOffset, int iNewVal);
 	void vPrint();
+	void cutCopyName();
 
 	//void operator=(const CTable& pcOther);
-
-	void operator+(const CTable& pcOther);
+	CTable& operator=(const CTable& pcOther);
+	CTable operator+(const CTable& pcOther);
 	
 private:
 	void deepCopy(int* copiedArray, int size);

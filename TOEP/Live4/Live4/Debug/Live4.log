@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live4\Live4\Main.cpp(30,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live4\Live4\Main.cpp(29): message : podczas kompilowania funkcji składowej „U &CDict<char,U>::operator [](const T &)” klasy klasa szablon
+          with
+          [
+              U=std::string,
+              T=char
+          ]
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live4\Live4\Main.cpp(75): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „U &CDict<char,U>::operator [](const T &)” funkcji szablon
+          with
+          [
+              U=std::string,
+              T=char
+          ]
+C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live4\Live4\Main.cpp(74): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CDict<char,std::string>” klasy klasa szablon
+  Live4.vcxproj -> C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\Live4\Debug\Live4.exe

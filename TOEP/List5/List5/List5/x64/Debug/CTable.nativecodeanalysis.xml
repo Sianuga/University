@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\dziki\OneDrive\Pulpit\</FILEPATH>
+      <FILENAME>CTable.cpp</FILENAME>
+      <LINE>34</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26439</DEFECTCODE>
+    <DESCRIPTION>Ten rodzaj funkcji nie powinna zgłaszać (throw). Zadeklaruj ją jako 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>CTable::{ctor}</FUNCTION>
+    <DECORATED>??0CTable@@QEAA@$$QEAV0@@Z</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\dziki\OneDrive\Pulpit\</FILEPATH>
+      <FILENAME>CTable.cpp</FILENAME>
+      <LINE>101</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26479</DEFECTCODE>
+    <DESCRIPTION>Nie używaj funkcji std::move w celu zwrócenia zmiennej lokalnej. (f.48).</DESCRIPTION>
+    <FUNCTION>CTable::+</FUNCTION>
+    <DECORATED>??HCTable@@QEAA?AV0@AEAV0@@Z</DECORATED>
+    <FUNCLINE>91</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

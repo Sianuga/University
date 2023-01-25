@@ -17,15 +17,23 @@
 		std::cout << "parametr: '" << sName << "'" << std::endl;
 	}
 
-	CTable::CTable(CTable& pcOther)
+	CTable::CTable(const CTable& pcOther)
 	{
-		_sName = pcOther.getSName() + "_copy";
-		_iTableLen = pcOther.getITableLen();
-		_array = new int[pcOther.getITableLen()];
-		deepCopy(pcOther.getArray(), pcOther.getITableLen());
+		_sName = pcOther._sName + "_copy";
+		_iTableLen = pcOther._iTableLen;
+		_array = new int[pcOther._iTableLen];
+		deepCopy(pcOther._array, pcOther._iTableLen);
 
 
 		std::cout << "kopiuj: '" << _sName << "'" << std::endl;
+	}
+
+	CTable::CTable(std::string sName, int iTableLen, int* array)
+	{
+		_sName = sName;
+		_iTableLen = iTableLen;
+		_array = new int[iTableLen];
+		deepCopy(array, iTableLen);
 	}
 
 	CTable::~CTable()
@@ -64,7 +72,9 @@
 
 	CTable* CTable::pcClone()
 	{
-		return new CTable(*this);
+		CTable* tmp = new CTable(*this);
+		tmp->cutCopyName();
+		return tmp;
 	}
 
 
@@ -85,6 +95,12 @@
 		_array[iOffset] = iNewVal;
 	}
 
+	void CTable::cutCopyName()
+	{
+		if(_sName.length()-5>=0)
+		_sName = _sName.substr(0, _sName.length() - 5);
+	}
+
 	void CTable::vPrint()
 	{
 		for (int i = 0; i < _iTableLen; i++)
@@ -94,8 +110,10 @@
 		std::cout << std::endl;
 	}
 
-	void CTable::operator+(const CTable& pcOther)
+	CTable CTable::operator+(const CTable& pcOther)
 	{
+		std::string newName = _sName + "_" + pcOther._sName;
+		int newLength = _iTableLen + pcOther._iTableLen;
 		int* tmp = new int[_iTableLen+pcOther._iTableLen];
 		
 		for (int i = 0; i < _iTableLen; i++)
@@ -108,12 +126,34 @@
 			tmp[_iTableLen + i] = pcOther._array[i];
 		}
 
-		delete[] _array;
 
-		_iTableLen = _iTableLen + pcOther._iTableLen;
+		CTable newTable(newName, newLength, tmp);
+		
+		delete[] tmp;
+	
+		return newTable;
 
-		_array = tmp;
+	}
 
+	CTable& CTable::operator=(const CTable& other) 
+	{
+		if (this != &other) 
+		{
+			_sName = other._sName;
+			_iTableLen = other._iTableLen;
+			
+			if (_iTableLen != other._iTableLen) 
+			{
+				int* newArray = new int[_iTableLen];
+				delete[] _array;
+				_array = newArray;
+			}
+			
+			for (int i = 0; i < _iTableLen; i++)
+				_array[i] = other._array[i];
+		}
+		
+		return *this;
 	}
 
 	//void CTable::operator=(const CTable& pcOther)
