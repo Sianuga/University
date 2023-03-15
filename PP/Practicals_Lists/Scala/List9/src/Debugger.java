@@ -6,7 +6,7 @@ public class Debugger
         for(var field:fields)
         {
             field.setAccessible(true);
-            System.out.println("Pole:" + field.getName() +"=>"+field.getType().getSimpleName()+ ", " + field.get(obj));
+            System.out.println("Pole: " + field.getName() +" => "+field.getType().getSimpleName()+ ", " + field.get(obj));
         }
     }
 }
