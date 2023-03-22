@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d2d46e4-915e-4164-bb07-b29bc17ac5d7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Ocaml/List1.ml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ocaml/List1.ml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/List1.iws" beforeDir="false" afterPath="$PROJECT_DIR$/List1.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/List1.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../List2/List2.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../List2/List2.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practicals_Lists/Scala/List2/List2.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practicals_Lists/Scala/List2/List2.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Practicals_Lists/Scala/List2/src/List2.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practicals_Lists/Scala/List2/src/List2.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/ipch/AutoPCH/217515e69a14cda3/CTABLE.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/.vs/List2/v16/ipch/AutoPCH/217515e69a14cda3/CTABLE.ipch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/Debug/List2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/Debug/List2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/Debug/List2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/Debug/List2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/CTable.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/CTable.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/List2.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/vc142.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/vc142.idb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/vc142.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TOEP/List2/List2/List2/Debug/vc142.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practicals_Lists/Scala/List9/List9.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practicals_Lists/Scala/List9/List9.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practicals_Lists/Scala/List9/out/production/List9/Debugger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practicals_Lists/Scala/List9/out/production/List9/Debugger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practicals_Lists/Scala/List9/out/production/List9/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practicals_Lists/Scala/List9/out/production/List9/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Practicals_Lists/Scala/List9/src/Debugger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Practicals_Lists/Scala/List9/src/Debugger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

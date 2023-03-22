@@ -1,3 +1,2 @@
-﻿  CGeneticAlgorithm.cpp
-C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List6\List6\CGeneticAlgorithm.cpp(39,21): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+﻿  CIndividual.cpp
   List6.vcxproj -> C:\Users\dziki\OneDrive\Pulpit\Github\University\TOEP\List6\x64\Debug\List6.exe

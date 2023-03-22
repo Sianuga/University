@@ -116,3 +116,8 @@ let rec insert list elem =
 
 
 
+let rec fib number acc last =
+  match number with 
+  | 1 -> acc
+  | _ -> fib (number-1) (acc+last) acc;;
+

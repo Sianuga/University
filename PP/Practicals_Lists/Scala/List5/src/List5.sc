@@ -1,3 +1,5 @@
+import scala.::
+import scala.annotation.tailrec
 import scala.collection.immutable.Nil.:::
 
 sealed trait Tree
@@ -60,3 +62,71 @@ val treeTest2 = Empty();
 sumTree(treeTest1)
 sumTree(treeTest2)
 sumTree(treeTest3)
+
+
+
+
+
+def g(xs: Any)=
+  {
+    xs match
+    {
+      case (a::b)::c => true
+      case _ => false
+    }
+
+  }
+
+g((1::Nil) :: (2::Nil) :: Nil ::Nil)
+g(List(1,2,3)::List(2,3,4))
+g((1,2,3)::(3,4,5)::Nil)
+
+
+class C
+{
+  def wykonaj: String = "C"
+}
+class B extends C
+{
+  override def wykonaj:String = "B"
+}
+
+class A extends B
+{
+  override def wykonaj:String = "A"
+}
+
+
+val b: B= new B();
+val ab: C= b.asInstanceOf[C];
+val ac: C = new A();
+
+b.wykonaj;
+ab.wykonaj;
+ac.wykonaj;
+
+
+@tailrec
+def fib(number: Int, acc: Int, add: Int): Int =
+{
+  number match
+  {
+    case number if number<=0 => add;
+    case _ => fib(number-1, acc+add,acc);
+  }
+}
+
+fib(3,1,0)
+
+
+@tailrec
+def sil(number: Int, acc: Int):Int =
+{
+  number match
+    {
+    case number if number<=0 => acc;
+    case _ => sil(number-1, acc*number)
+  }
+}
+
+sil(3,1)
