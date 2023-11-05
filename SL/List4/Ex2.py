@@ -35,9 +35,12 @@ def changeToLog(logDict):
     
 
 def get_ipv4s_from_log(line):
-    line = line.strip()
+
     regex = re.compile(r'^(\w{3}\s\d{1,2}\s\d{2}:\d{2}:\d{2})\s(\w+)\s(\w+)\[(\d+)\]:\s(.*?)(\b(?:\d{1,3}\.){3}\d{1,3}\b|$)')
-    match = regex.match(line)
+
+    if line is not None:
+        line = line.strip()
+        match = regex.match(line)
     if match:
         return match.group(6)
     else: 

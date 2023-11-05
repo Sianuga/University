@@ -28,11 +28,12 @@ parser_d.add_argument('--output', type=str, help='output file path')
 args = parser.parse_args()
 
 logging.getLogger().setLevel(args.log_level)
+logs = []
 
 with open(args.file_path) as file:
     lines = file.readlines()
     file.close()
-    logs = []
+    
     for line in lines:
         dict = Ex2.changeToDict(line)
         logs.append(dict)

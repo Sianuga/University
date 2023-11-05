@@ -8,9 +8,7 @@ import logging
 
 def Ex1(filePath):
 
-    f = open(filePath, "r")
-    lines = f.readlines()
-    f.close()
+    lines = readFile(filePath)
     print("Ex3 logTheMessage")
     dictList = []
     for line in lines:
@@ -40,6 +38,12 @@ def Ex1(filePath):
     print(Ex4.calculateUserLoginFrequency(dictList))
     print("Ex4 getSSHDurationStats")
     print(Ex4.getSSHDurationStats(dictList))
+
+def readFile(filePath):
+    f = open(filePath, "r")
+    lines = f.readlines()
+    f.close()
+    return lines
 
 
  

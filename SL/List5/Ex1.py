@@ -15,8 +15,7 @@ class SSHLogEntry:
         else:
             raise Exception('Invalid log entry')
     
-    def __str__(self):
-        return self.Date + ' ' + self.Host + ' ' + self.AppC + '[' + self.PID + ']: ' + self.Description
+
     
     def getIPv4Address(self):
         ipRegex = re.compile(r'(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3})')
